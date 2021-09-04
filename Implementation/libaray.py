@@ -79,8 +79,8 @@ if __name__ == '__main__':
                         print("No books are issued.\n")
 
             elif response == 6:
-                print("Thanks for using Vinay's1 Library")
-                print("\nperformed by - Vinyak Katigar")
+                print("Thanks for using paras's1 Library")
+                print("\nperformed by - Paras jain")
                 exit()
 
             else:
