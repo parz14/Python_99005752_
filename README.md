@@ -1,6 +1,6 @@
 # python_MiniProject
+![WHAT-IS-THE-PURPOSE-OF-A-LIBRARY-MANAGEMENT-SYSTEM-min](https://user-images.githubusercontent.com/62294775/132091096-090c2b12-ac41-45d1-a589-fe6ea2c390a2.png)
 
-[![CI](https://github.com/VinayakKeshavKatigar/python_MiniProject_260245/actions/workflows/main.yml/badge.svg)](https://github.com/VinayakKeshavKatigar/python_MiniProject_260245/actions/workflows/main.yml)
 
 #Simple Library Management System Using Python
 
@@ -9,6 +9,14 @@ The Simple Library Management System is a simple project developed using Python.
 This Simple Library Management System. Talking about the features of this system, it contains only the admin section. It performs all the editing, updating, managing books, authors, and students. But to add books, you have to manually add them in the text file. Also, the system has a simple design so that the user won’t get any difficulties while working on it.
 
 The project file contains a python script (library.py). This is a simple console-based project which is very easy to use. Also, this project makes it easy for the library to keep records of books, borrowing and returning books in a digital way.
+
+
+ | Stage / Folder Name   | Description   |
+ |-----|-----|
+ | `Requirements` | Documents detailing requirements and research |
+ | `Design` | Documents specifying design details |
+ | `Implementation` | All source code and documentation |
+
 
 Features :
 
