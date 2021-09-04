@@ -1,0 +1,66 @@
+1.view books
+2.Issue books
+3.Return books
+4.Donate Book
+5.Track book
+6.Exit
+
+
+step 1:
+
+Available Books 
+
+->Python
+->C
+->C++
+->Java
+->CSS
+->HTML
+->JavaScript
+
+step 2:
+
+lets Issue the Python Book then Available books are
+
+->C
+->C++
+->Java
+->CSS
+->HTML
+->JavaScript
+
+step 3:
+
+Return Books adds Back see that Python is added at Last
+
+->C
+->C++
+->Java
+->CSS
+->HTML
+->JavaScript
+->Python
+
+Step 4:
+
+Donate Book
+
+lets Add MicroController Book
+
+->C
+->C++
+->Java
+->CSS
+->HTML
+->JavaScript
+->Python
+->MicroController
+
+Step 5:
+
+Track Book
+
+Example
+
+Vinayak is Issued the Python Book 
+
