@@ -1,4 +1,4 @@
-# python_MiniProject_260245
+# python_MiniProject
 
 [![CI](https://github.com/VinayakKeshavKatigar/python_MiniProject_260245/actions/workflows/main.yml/badge.svg)](https://github.com/VinayakKeshavKatigar/python_MiniProject_260245/actions/workflows/main.yml)
 
